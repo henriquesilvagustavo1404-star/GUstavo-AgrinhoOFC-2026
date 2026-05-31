@@ -1,6 +1,6 @@
 # SoloTec - Sistema de Irrigação Inteligente
 
-Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript.
+Projeto desenvolvido para o Concurso Agrinho 2026 na categoria Programação Front-End, utilizando HTML, CSS e JavaScript.
 
 ## Tema do Concurso
 
@@ -74,9 +74,9 @@ O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produçã
 ## Autoria
 
 Autor: Gustavo Henrique da Silva
-Orientador(a): [Nome do professor]
-Escola: [Nome da escola]
-Município: Cascavel – Paraná
+Orientador(a): 
+Escola: Colégio Estadual do Campo Benjamim Antonio Motter
+Município: Cafelândia - Paraná
 
 ## Referências
 
