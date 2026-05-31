@@ -48,7 +48,7 @@ Nenhum framework foi utilizado. Os arquivos de estilo e script estão separados.
 ## Como Executar o Projeto
 
 1. Baixe ou clone este repositório
-2. Abra a pasta do projeto
+2. Abra a pasta do projeto no Visual Studio code
 3. Abra o arquivo index.html em um navegador
 4. Navegue pelas seções usando o menu sanduíche
 5. Clique em "Simulador" para preencher o formulário e testar o aplicativo
