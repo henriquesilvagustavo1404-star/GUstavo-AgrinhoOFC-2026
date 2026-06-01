@@ -80,7 +80,7 @@ Município: Cafelândia - Paraná
 
 ## Referências
 
-Todas as imagens e informações foram retiradas do Google.
+Todas as imagens foram retiradas do Google .
 
 ## Licença
 
